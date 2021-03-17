@@ -44,6 +44,13 @@ const browsers = {
     device: 'iPhone 6',
     real_mobile: true
   },
+  iphone7: {
+    base: 'BrowserStack',
+    os: 'ios',
+    os_version: '12.0',
+    device: 'iPhone 7',
+    real_mobile: true
+  },
   iphone12: {
     base: 'BrowserStack',
     os: 'ios',
