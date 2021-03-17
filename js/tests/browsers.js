@@ -37,11 +37,11 @@ const browsers = {
     browser: 'Firefox',
     browser_version: 'latest'
   },
-  iphone7: {
+  iphone6: {
     base: 'BrowserStack',
     os: 'ios',
-    os_version: '10.0',
-    device: 'iPhone 7',
+    os_version: '11.0',
+    device: 'iPhone 6',
     real_mobile: true
   },
   iphone11: {
